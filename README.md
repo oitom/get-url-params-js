@@ -1,1 +1,1 @@
-# get-url-params-js
+# Get URL params in Js
