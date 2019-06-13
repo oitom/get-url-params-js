@@ -1,0 +1,16 @@
+form, #result {
+    width: 400px;
+    background: #f7f6f6;
+    padding: 30px;
+    margin: 0 auto;
+}
+div#result {
+    background: #ececec;
+}
+form>label>input {
+    padding: 4px 5px;
+    margin-bottom: 10px;
+    display: block;
+    float: left;
+    margin-right: 11px;
+}
